@@ -1,0 +1,6 @@
+[en]
+  title = "KalviToday"
+  LanguageName = "English"
+  weight = 2
+
+  # tip: assign the default language the lowest Weight
